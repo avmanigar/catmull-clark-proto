@@ -1,0 +1,8 @@
+﻿  Matrix3f.cpp
+  Matrix4f.cpp
+  Quat4f.cpp
+  Vector2f.cpp
+  Vector3f.cpp
+  Vector4f.cpp
+  Generating Code...
+  vecmath.vcxproj -> C:\Users\User\Documents\6.837\Term Project\Build\vecmath\Debug\vecmath.lib

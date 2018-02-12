@@ -1,0 +1,6 @@
+C:/Users/User/Documents/6.837/Term Project/Build/CMakeFiles/subsurf.dir
+C:/Users/User/Documents/6.837/Term Project/Build/CMakeFiles/ALL_BUILD.dir
+C:/Users/User/Documents/6.837/Term Project/Build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/User/Documents/6.837/Term Project/Build/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/User/Documents/6.837/Term Project/Build/glfw/src/CMakeFiles/glfw.dir
+C:/Users/User/Documents/6.837/Term Project/Build/vecmath/CMakeFiles/vecmath.dir
